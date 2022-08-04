@@ -9,7 +9,7 @@ For my Masters Dissertation, I was tasked with developing a multi-device Mobile 
 - Final visualisation of bounces throughout the court.
 - Custom testing tool, implemented using OpenCV in Python and C++.
 
-
+## Notes
 I have decided to not include the source code for this project. Mainly for the reason that if anyone attempts to run it, they will require video footage taken in the correct format that was decided upon for this project. While it would be cool to have a shareable project where anyone can test their own footage, this is simply not possible for the implemented system.
 
 In this repository, I have included the .tex and final PDF, as submitted to my supervisor.
